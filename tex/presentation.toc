@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Raw data}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Timeseries}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Parametric plot}{5}{0}{1}
+\beamer@sectionintoc {2}{Transformed data}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Parametric plot: normalized and semi-normalized}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Timeseries: normalized data}{8}{0}{2}
