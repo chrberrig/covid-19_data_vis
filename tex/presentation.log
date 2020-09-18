@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.7.29)  17 SEP 2020 18:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.7.29)  18 SEP 2020 08:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -938,12 +938,12 @@ series_7days_linear.pdf
 pdfTeX warning: pdflatex (file ../figs/deaths_rate_timeseries_7days_linear.pdf)
 : PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<../figs/parametric_plots_log.pdf, id=425, 1084.05pt x 361.35pt>
+<../figs/parametric_plots_log.pdf, id=425, 1084.05pt x 722.7pt>
 File: ../figs/parametric_plots_log.pdf Graphic file (type pdf)
 <use ../figs/parametric_plots_log.pdf>
 Package pdftex.def Info: ../figs/parametric_plots_log.pdf  used on input line 5
 2.
-(pdftex.def)             Requested size: 342.2953pt x 114.09602pt.
+(pdftex.def)             Requested size: 342.2953pt x 228.19205pt.
 
 Overfull \hbox (3.42154pt too wide) has occurred while \output is active
  [][][][]  
@@ -952,12 +952,12 @@ Overfull \hbox (3.42154pt too wide) has occurred while \output is active
 [5
 
  <../figs/parametric_plots_log.pdf>]
-<../figs/parametric_plots_normalized_log.pdf, id=494, 1084.05pt x 361.35pt>
+<../figs/parametric_plots_normalized_log.pdf, id=494, 1084.05pt x 722.7pt>
 File: ../figs/parametric_plots_normalized_log.pdf Graphic file (type pdf)
 <use ../figs/parametric_plots_normalized_log.pdf>
 Package pdftex.def Info: ../figs/parametric_plots_normalized_log.pdf  used on i
 nput line 61.
-(pdftex.def)             Requested size: 342.2953pt x 114.09602pt.
+(pdftex.def)             Requested size: 342.2953pt x 228.19205pt.
 
 Overfull \hbox (3.42154pt too wide) has occurred while \output is active
  [][][][]  
@@ -966,13 +966,13 @@ Overfull \hbox (3.42154pt too wide) has occurred while \output is active
 [6
 
  <../figs/parametric_plots_normalized_log.pdf>]
-<../figs/parametric_plots_semi-normalized_log.pdf, id=570, 1084.05pt x 361.35pt
->
+<../figs/parametric_plots_semi-normalized_log.pdf, id=570, 1084.05pt x 722.7pt>
+
 File: ../figs/parametric_plots_semi-normalized_log.pdf Graphic file (type pdf)
 <use ../figs/parametric_plots_semi-normalized_log.pdf>
 Package pdftex.def Info: ../figs/parametric_plots_semi-normalized_log.pdf  used
  on input line 68.
-(pdftex.def)             Requested size: 342.2953pt x 114.09602pt.
+(pdftex.def)             Requested size: 342.2953pt x 228.19205pt.
 
 Overfull \hbox (3.42154pt too wide) has occurred while \output is active
  [][][][]  
@@ -1098,7 +1098,7 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 Here is how much of TeX's memory you used:
  17209 strings out of 492615
  330467 string characters out of 6131390
- 404092 words of memory out of 5000000
+ 404091 words of memory out of 5000000
  20706 multiletter control sequences out of 15000+600000
  5452 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1106,7 +1106,7 @@ Here is how much of TeX's memory you used:
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on presentation.pdf (10 pages, 371378 bytes).
+Output written on presentation.pdf (10 pages, 380000 bytes).
 PDF statistics:
  1007 PDF objects out of 1200 (max. 8388607)
  384 compressed objects within 4 object streams
