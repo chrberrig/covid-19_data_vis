@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1600409679 "presentation.tex" "presentation.pdf" "presentation" 1600409680
+["pdflatex"] 1600411480 "presentation.tex" "presentation.pdf" "presentation" 1600411481
   "../figs/confirmed_rate_timeseries_1days_linear.pdf" 1600356522 24800 68c1af1f0f5dfb9b607ab317610032f6 ""
   "../figs/confirmed_rate_timeseries_7days_linear.pdf" 1600409579 26699 7e6689d01bea68a16d697b1eaba86c32 ""
   "../figs/confirmed_rate_timeseries_relative_1days_linear.pdf" 1600356529 26258 7597f48fbef9785650421110c62cf6dc ""
@@ -173,15 +173,15 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1551493644 34566 ab5be96bde1a5acfd4f881dbe566b5fb ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1596019643 3236781 e9b83c52c520df65899bfeb7a3f6dbe1 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1596019669 4228562 eac95b01b3621c59fd55dac13b84d279 ""
-  "presentation.aux" 1600409679 3974 c0b6cf3e3637be24fa041ae4a80d901d "pdflatex"
-  "presentation.nav" 1600409679 2139 34554f47ef1eea279ff1f6e8d747eb7e "pdflatex"
-  "presentation.out" 1600409679 389 8eedca0456b1d4997014fa56934bd0c1 "pdflatex"
-  "presentation.tex" 1600409356 2693 bcb9a74429f15b1e130beb07c7aef5b5 ""
+  "presentation.aux" 1600411481 3974 c0b6cf3e3637be24fa041ae4a80d901d "pdflatex"
+  "presentation.nav" 1600411481 2139 34554f47ef1eea279ff1f6e8d747eb7e "pdflatex"
+  "presentation.out" 1600411481 389 8eedca0456b1d4997014fa56934bd0c1 "pdflatex"
+  "presentation.tex" 1600411394 2693 949127d03db095ac302c92472d4bc1f1 ""
   (generated)
-  "presentation.out"
   "presentation.nav"
   "presentation.aux"
-  "presentation.snm"
   "presentation.pdf"
+  "presentation.snm"
   "presentation.toc"
   "presentation.log"
+  "presentation.out"
